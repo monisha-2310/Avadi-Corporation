@@ -57,5 +57,174 @@
         "lat": 99.5645,
         "lng": 65.451,
         "status": true
-    }
-]
+    },
+ {
+        "placeId": "6",
+        "title": "Remy Cinemas",
+        "tag": "Entertainment",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 3km",
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-o/03/d8/3c/45/s2-cinemas.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+ {      "placeId": "7",
+        "title": "Sri Vaishnavi Temple",
+        "tag": "Devotion",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 2km",
+        "imgUrl": "http://murugan.org/pix/vaishnavi_gate.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+ {
+        "placeId": "8",
+        "title": "Heavy Vehicles Factory",
+        "tag": "job",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 3km",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/T-72_Ajeya1.jpg/375px-T-72_Ajeya1.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+ {
+       "placeId": "9",
+        "title":"Reliance Trends",
+        "tag": "Shopping",
+        "isShopping": true,
+        "isPaid": false,
+        "distance": "Near 1km",
+        "imgUrl": "https://www.forummalls.in/wp-content/uploads/malls/Vijaya/new_bg/trendz/fvm_trendz_g1.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+ 
+    },
+ {
+        "placeId": "10",
+        "title": "Max Fashion",
+        "tag": "Shopping",
+        "isShopping": true,
+        "isPaid": false,
+        "distance": "Near 2km",
+        "imgUrl": "https://images.pexels.com/photos/1778412/pexels-photo-1778412.jpeg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+ {
+        "placeId": "11",
+        "title": "Ajeya Stadium",
+        "tag": "Sports",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 3km",
+        "imgUrl": "https://cdn.pixabay.com/photo/2017/05/28/18/38/t-shirt-2351761__480.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+ {
+        "placeId": "12",
+        "title": "Selfie Point",
+        "tag": "Entertainment",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 500m",
+        "imgUrl": "https://images.pexels.com/photos/2978825/pexels-photo-2978825.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+    },
+ {
+        "placeId": "13",
+        "title": "Bheeshma Park",
+        "tag": "Lake",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 3km",
+        "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/cd/b9/1e/caption.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+ {
+        "placeId": "14",
+        "title": "Elite Restaurant",
+        "tag": "Food",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 2km",
+        "imgUrl": "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+   {
+        "placeId": "15",
+        "title": "Orange Restaurant",
+        "tag": "Food",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 1.5km",
+        "imgUrl": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+  {
+        "placeId": "16",
+        "title": "Ibaco",
+        "tag": "Food",
+        "isShopping": false,
+        "isPaid": true,
+        "distance": "Near 1.5km",
+        "imgUrl": "https://cdn.pixabay.com/photo/2019/12/11/20/08/coffee-4689200__480.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+  {
+        "placeId": "17",
+        "title": "Prathyangira devi temple",
+        "tag": "Devotion",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 1.5km",
+        "imgUrl": "https://thumbs.dreamstime.com/b/hindu-temple-gopuram-sri-lanka-old-75485391.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+ {
+        "placeId": "18",
+        "title": "Krishnar temple",
+        "tag": "Devotion",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 2.5km",
+        "imgUrl": "https://thumbs.dreamstime.com/b/lord-radha-krishna-beautiful-wallpaper-background-indian-radhaji-164053861.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+   },
+ 
+ {
+        "placeId": "19",
+        "title": "Trinity Church",
+        "tag": "Devotion",
+        "isShopping": false,
+        "isPaid": false,
+        "distance": "Near 3km",
+        "imgUrl": "https://content3.jdmagicbox.com/comp/chennai/d6/044pxx44.xx44.180316122143.e6d6/catalogue/csi-trinity-church-avadi-chennai-churches-7ftnyebn87.jpg",
+        "lat": 99.5645,
+        "lng": 65.451,
+        "status": true
+ }
+ ]
